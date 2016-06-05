@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GoldClick : MonoBehaviour {
+public class GoldClickCoin : MonoBehaviour {
 
 	private GameManagerBehaviour gameManagerCoin;
 
